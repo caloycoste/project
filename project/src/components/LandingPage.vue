@@ -1,9 +1,9 @@
 <template>
     <div class="landing-page">
         <div class="landing-page-title">
-            <img src="https://www.everynation.org/wp-content/uploads/2019/11/Enc-Conference.jpg" alt="enc-poster"
-            class="enc-poster">
-            <h1 class="about-overview">Every Nation.<br> Every Campus.</h1>
+            <img src="https://questronix.com.ph/wp-content/uploads/2019/06/lenovo.png" alt="questronix-poster"
+            class="questronix-poster">
+            <h1 class="welcome">Welcome to Questronix!</h1>
         </div>
     </div>
     
@@ -17,16 +17,18 @@
 
  .landing-page {
     background-color:aliceblue;
+    align-items: center;
 }
 
-.nav-bar-menu li {
-    list-style: none;
-    display:inline-block;
-    margin: 5%;
-}
-
-.enc-poster{
+.questronix-poster{
+    display: block;
     width:50%;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.welcome {
+    text-align: center;
 }
 
 </style>
