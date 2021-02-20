@@ -87,13 +87,15 @@ export default {
     color:mintcream;
     font-size: 200%;
     line-height: 30px;;
+    font-family: sans-serif;
 
 }
 
 .about p {
     color:mintcream;
     font-size: 120%;
-    line-height: 30px;;
+    line-height: 30px;
+    font-family: sans-serif;
 
 }
 
@@ -107,6 +109,7 @@ export default {
     width: 16%;
     display:inline-block;
     height:250px;
+    
 }
 
 .col p {
@@ -118,8 +121,9 @@ export default {
 }
 .material-design-icon {
     padding:25px;
-    font-size: 500%;
+    font-size: 400%;
     color: azure;
+    margin:0;
     
 }
 
