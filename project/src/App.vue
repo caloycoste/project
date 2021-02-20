@@ -4,10 +4,11 @@
 
       <img src="https://questronix.com.ph/wp-content/uploads/2019/03/logoflyer.png" class="logo">
 
-      <button @click="$router.push('/')" class="nav-items"> Home</button>
+      
       <button @click="$router.push('/loginhere')" class ="nav-items"> Log In Here</button>
       <button @click="$router.push('/registerhere')" class="nav-items"> Register Here</button>
       <button @click="$router.push('/blogposts')" class="nav-items"> Blogs</button>
+      <button @click="$router.push('/')" class="nav-items"> Home</button>
       
     </div>
 
@@ -32,7 +33,7 @@ export default {
 }
 
 .navigation {
-  height:70px;
+  height:50px;
 }
 
 .logo {
@@ -41,7 +42,14 @@ export default {
 
 .nav-items {
   float: right;
+  border:none;
+  padding:17px;
+  font-family: sans-serif;
 
+}
+
+.nav-items:hover {
+  background-color: rgba(226, 226, 226, 0.966);
 }
 
 </style>

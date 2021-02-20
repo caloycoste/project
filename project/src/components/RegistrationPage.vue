@@ -61,6 +61,7 @@ input::-webkit-outer-spin-button,
 
 h2 {
     text-align: center;
+    font-family: sans-serif;
 }
 .col-0 {
     width:50%;
