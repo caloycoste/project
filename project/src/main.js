@@ -7,8 +7,10 @@ import LogInPage from './components/Log-In-Page.vue'
 import BlogPosts from './components/BlogPosts.vue'
 import RegistrationPage from './components/RegistrationPage.vue'
 
-
 Vue.use(VueRouter);
+
+import 'vue-material-design-icons/styles.css'
+
 
 const routes = [
   
@@ -25,6 +27,6 @@ const router = new VueRouter( {
 
 new Vue({
   el: '#app',
-  router,
+  router, 
   render: h => h(App)
 });

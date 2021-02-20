@@ -14,18 +14,6 @@
   </div>
 </template>
 
-<script>
-
-export default {
-  data() {
-    return{
-      
-    }
-  }
-}
-
-</script>
-
 <style>
 .navigation {
   margin:10px;

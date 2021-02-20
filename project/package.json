@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "material-design-icons": "^3.0.1",
     "vue": "^2.6.11",
+    "vue-material": "^1.0.0-beta-15",
+    "vue-material-design-icons": "^4.11.0",
     "vue-router": "^3.5.1"
   },
   "devDependencies": {
