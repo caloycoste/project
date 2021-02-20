@@ -140,6 +140,7 @@ iframe {
 
 .sidebar {
     margin-right:150px;
+    height:300px;
     
 }
 

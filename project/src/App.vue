@@ -5,8 +5,8 @@
       <img src="https://questronix.com.ph/wp-content/uploads/2019/03/logoflyer.png" class="logo">
 
       
-      <button @click="$router.push('/loginhere')" class ="nav-items"> Log In Here</button>
-      <button @click="$router.push('/registerhere')" class="nav-items"> Register Here</button>
+      <button @click="$router.push('/loginhere')" class ="nav-items"> Log In</button>
+      <button @click="$router.push('/registerhere')" class="nav-items"> Register</button>
       <button @click="$router.push('/blogposts')" class="nav-items"> Blogs</button>
       <button @click="$router.push('/')" class="nav-items"> Home</button>
       

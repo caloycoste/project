@@ -73,6 +73,7 @@ h2 {
 
 .col-0 img {
     width:80%;
+    box-shadow: 5px 10px 8px rgb(9, 9, 66);
     
 }
 

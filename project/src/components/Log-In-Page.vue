@@ -37,7 +37,7 @@
     text-align: center;
     background-color: azure;
     font-family: sans-serif;
-    box-shadow: 7px 7px 5px rgb(71, 71, 71);
+    box-shadow: 7px 7px 5px rgb(9, 9, 66);
 
 }
 .col-1 {
