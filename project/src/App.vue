@@ -37,7 +37,7 @@ export default {
 }
 
 .logo {
-  width:5%;
+  width:4%;
 }
 
 .nav-items {
@@ -45,11 +45,12 @@ export default {
   border:none;
   padding:17px;
   font-family: sans-serif;
-
+  
 }
 
 .nav-items:hover {
   background-color: rgba(226, 226, 226, 0.966);
+  font-weight: 600;
 }
 
 </style>
