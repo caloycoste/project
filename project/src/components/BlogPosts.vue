@@ -82,10 +82,18 @@ export default {
     box-sizing:border-box;
 }
 .blog-header {
-    background-image: url(https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background: linear-gradient(rgba(31, 30, 30, 0.6), rgba(31, 30, 30, 0.6)), url(https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     height:400px;
     background-attachment: fixed;
     margin:0px;
+    text-align: center;
+}
+
+.blog-header h1 {
+    line-height: 400px;
+    font-family: sans-serif;
+    font-size: 500%;
+    color:azure;
 }
 
 .col-blogs {
