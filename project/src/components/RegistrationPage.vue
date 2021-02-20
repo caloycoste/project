@@ -87,6 +87,7 @@ h2 {
     height:350px;
     display: table-cell;
     line-height: 30px;
+    
 }
 
 .col-2 {
@@ -95,11 +96,13 @@ h2 {
     height:350px;
     display: table-cell;
     
+    
 }
 
 form {
 padding: 20px;
 margin-top:10px;
+
 }
 
 input {

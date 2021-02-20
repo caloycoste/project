@@ -2,7 +2,7 @@
   <div id="app">
     <div class="navigation">
 
-      <img src="https://questronix.com.ph/wp-content/uploads/2019/03/logoflyer.png" class="logo">
+      <a href=""><img src="https://questronix.com.ph/wp-content/uploads/2019/03/logoflyer.png" class="logo"></a>
 
       
       <button @click="$router.push('/loginhere')" class ="nav-items"> Log In</button>
