@@ -2,6 +2,7 @@
 <div>
     <div class="register">
         <h2>Join us!</h2>
+        
         <div class="col-0">
             <img src="https://s3-ap-southeast-1.amazonaws.com/kalibrr-company-assets/images/68TXVU3NP9FCWJGSA3QX-5892d4d6.jpg">
         </div>
